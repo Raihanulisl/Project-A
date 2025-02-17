@@ -1,0 +1,34 @@
+.parent{
+    padding: 25px;
+    background-color: pink;
+    display: flex;
+    width: 450px;
+    gap: 10px;
+}
+.Child{
+    border: 2px solid rgb(15,158,160);
+    background: rgb(178,228,229);
+    padding: 15px;
+    font-size: 18px;
+    margin: 10px 0;
+}
+
+
+
+.main{
+    padding: 25px;
+    background-color: pink;
+    display: flex;
+    width: 700px;
+    gap: 43px;
+    height: 150px;
+}
+.box{
+    border: 3px solid rgb(15,158,160);
+    background: rgb(178,228,229);
+    padding: 15px;
+    font-size: 25px;
+    margin: 25px 0;
+  
+}
+
